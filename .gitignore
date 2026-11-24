@@ -1,0 +1,4 @@
+data/CBS_raw.csv
+data/fed_speeches.csv
+__pycache__/
+*.pyc
